@@ -1,0 +1,274 @@
+@media only screen and (min-width: 1400px) {}
+
+
+
+@media only screen and (min-height: 880px) {
+  .bg-image img {
+
+    height: 1080px;
+
+  }
+}
+
+
+
+@media only screen and (min-width: 1200px) {}
+
+@media only screen and (max-width: 990px) {
+  .bg-image {
+
+    height             : 644px;
+    background-image   : url(../img/bg-img.png);
+    background-position: center;
+    background-repeat  : no-repeat;
+    background-size    : cover;
+  }
+
+  .head-text img {
+    width: 56%;
+  }
+
+  .head-text h3 {
+    font-size    : 27px;
+    margin-bottom: -20px;
+    margin-left  : 79px;
+  }
+
+  /* .text {
+    margin-left: 79px;
+  } */
+
+  .text h3:nth-child(1) {
+    font-size    : 16px;
+    padding-right: 50%;
+  }
+
+  .text h3:nth-child(2) {
+    font-size: 16px;
+  }
+
+  .email-signup {
+    margin-left: 74px;
+  }
+
+  .email-img img {
+    width: 380px;
+  }
+
+  .input-one {
+    position: absolute;
+    top     : 5px;
+    left    : 9px;
+  }
+
+  .input-one input {
+    width    : 360px;
+    font-size: 12px;
+  }
+
+  .img-shorter img {
+    width     : 72%;
+    margin-top: -47px;
+  }
+
+  .input-two {
+    position: absolute;
+    left    : 13px;
+    bottom  : 22px;
+  }
+
+  .input-two input {
+    font-style: italic;
+    padding   : 1px 8px;
+    width     : 315px;
+    font-size : 13px;
+  }
+
+  .img-button-b img {
+    width: 65%;
+  }
+
+  .img-shorter {
+    margin-right: -132px;
+  }
+
+  .img-button-b h3 {
+    font-size  : 10px;
+    margin-left: -25px;
+    margin-top : -18px;
+  }
+
+  .footer-logo {
+    margin-top: 32px;
+  }
+
+  .footer-logo img:nth-child(2) {
+    margin: 0px 12px;
+  }
+
+  .footer-logo h3 {
+    font-size: 13px;
+  }
+
+  .bg-image img {
+
+    height: 680px;
+
+  }
+
+  .btn-hover {
+    width : 32px;
+    height: 32px;
+
+  }
+}
+
+@media only screen and (min-height: 880px) {
+  .bg-image img {
+
+    height: 1080px;
+
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .bg-image {
+    height             : 300px;
+    background-image   : url(../img/bg-img.png);
+    background-position: center;
+    background-repeat  : no-repeat;
+    background-size    : cover;
+    margin-top         : 170px;
+  }
+
+  .footer-logo .art {
+    margin-left: 90px;
+  }
+
+  body {
+
+    background: #000;
+  }
+
+  .section-two {
+    position: absolute;
+    top     : -149px;
+  }
+
+  .text {
+    margin-left: 40px;
+    margin-top : 34px;
+  }
+
+  .text h3:nth-child(1) {
+    font-size    : 24px;
+    padding-right: 52%;
+  }
+
+  .text h3:nth-child(2) {
+    font-size : 22px;
+    margin-top: 90px;
+  }
+
+  .email-signup {
+    margin-left: 36px;
+  }
+
+  .footer-logo {
+    margin-top : 55px;
+    margin-left: 51px;
+  }
+}
+
+
+
+@media only screen and (max-width: 576px) {
+  .bg-image {
+    height             : 235px;
+    background-image   : url(../img/bg-img.png);
+    background-position: center;
+    background-repeat  : no-repeat;
+    background-size    : cover;
+    margin-top         : 205px;
+  }
+
+  .section-two {
+    position: absolute;
+    top     : -187px;
+  }
+
+  .head-text h3 {
+    font-size    : 30px;
+    margin-bottom: -9px;
+    margin-left  : 20px;
+  }
+
+  .head-text img {
+    width: 90%;
+  }
+
+  .bg-image img {
+    height    : 309px;
+    margin-top: 240px;
+  }
+
+  .text {
+    margin-left: 17px;
+    margin-top : 35px;
+  }
+
+  .text h3:nth-child(1) {
+    font-size    : 20px;
+    padding-right: 51%;
+  }
+
+  .text h3:nth-child(2) {
+    font-size : 20px;
+    margin-top: 67px;
+  }
+
+  .email-signup {
+    margin-left: 9px;
+  }
+
+  .email-img {
+    position     : relative;
+    margin-bottom: 5px;
+    margin-top   : 28px;
+  }
+
+  .email-img img {
+    width: 340px;
+  }
+
+  .input-one input {
+    width    : 322px;
+    font-size: 12px;
+  }
+
+  .input-one {
+    position: absolute;
+    top     : 4px;
+    left    : 9px;
+  }
+
+  .img-shorter img {
+    width     : 68%;
+    margin-top: 10px;
+  }
+
+  .input-two {
+    position: absolute;
+    left    : 10px;
+    bottom  : 8px;
+  }
+
+  .input-two input {
+    width    : 300px;
+    font-size: 12px;
+  }
+
+  .img-button-b {
+    margin-left: 274px;
+  }
+}
